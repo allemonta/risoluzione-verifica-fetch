@@ -1,0 +1,24 @@
+{
+  "name": "risoluzione-verifica-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allemonta/risoluzione-verifica-fetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allemonta/risoluzione-verifica-fetch/issues"
+  },
+  "homepage": "https://github.com/allemonta/risoluzione-verifica-fetch#readme"
+}

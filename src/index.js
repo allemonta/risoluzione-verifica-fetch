@@ -1,6 +1,6 @@
 const fetch = require("node-fetch")
 
-const indirizzoIp = "127.0.0.1"
+const indirizzoIp = "192.168.1.231"
 
 const consegna = (numeroEsercizio, risultato) => {
     console.log(`Consegna dell'esercizio n. ${numeroEsercizio} con questo payload:`, { data: risultato })
@@ -151,9 +151,4 @@ const es5 = (userId) => {
         })
 }
 
-// accreditamento("Alessandro Montanari")
-risolvi(1)
-risolvi(2)
-risolvi(3)
-risolvi(4)
-risolvi(5)
+accreditamento("Alessandro Montanari")
